@@ -12,7 +12,7 @@ Questa implementazione consente di utilizzare i tag definiti in TC-ACN nella pia
 Per aggiungere questa tassonomia alla propria istanza MISP è sufficiente seguire le informazioni riportate qui di seguito:
 
  * Creare una cartella con il nome della tassonomia (es. TC-ACN) all'interno del percorso `/var/www/MISP/app/files/taxonomies/` (nei sistemi Linux)
- * Aggiungere il file machinetag.json
- * Dall'interfaccia grafica del MISP: "List Taxonomies $\rightarrow$ Update Taxonomies"
+ * Aggiungere il file `machinetag.json`
+ * Dall'interfaccia grafica del MISP: "**List Taxonomies $\rightarrow$ Update Taxonomies**"
  * Abilitare la tassonomia e i singoli tag.
 
